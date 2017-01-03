@@ -1,0 +1,26 @@
+PODS:
+  - HMSegmentedControl (1.5.2)
+  - IQKeyboardManager (4.0.4)
+  - JSONModel (1.2.0)
+  - Masonry (1.0.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+
+DEPENDENCIES:
+  - HMSegmentedControl
+  - IQKeyboardManager
+  - JSONModel
+  - Masonry
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  HMSegmentedControl: 83b9686022d2176fb6457d2bdb61e5d6393fed7d
+  IQKeyboardManager: 4a6f83b540283c2645aaeba2bd8dc0f09b5c77f8
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+
+PODFILE CHECKSUM: 8898e41988458ab417e2f72d01f2210ac671fa5f
+
+COCOAPODS: 1.0.1
